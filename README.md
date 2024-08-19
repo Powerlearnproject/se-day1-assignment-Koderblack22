@@ -47,6 +47,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 7. Maintenance: After deployment, the software enters the maintenance phase, where it is updated and improved based on user feedback and changing requirements. This phase includes bug fixes, enhancements, and the implementation of new features to ensure the software remains relevant and functional.
 
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 **Ans**
